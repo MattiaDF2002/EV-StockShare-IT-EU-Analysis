@@ -35,7 +35,8 @@ ev-stock-share-italy-europe/
 ## Results
 
 ### Line chart
-![EV stock share](figures/ev-stock-share_italy-vs-europe_2015-2023.png)
+![EV stock share](<img width="2060" height="1407" alt="ev-stock-share_italy-vs-europe_2015-2023" src="https://github.com/user-attachments/assets/663367d0-d718-4325-9cd8-a571feb03543" />
+)
 
 - In **2015**: Italy ~0.03%, Europe ~0.14%.  
 - In **2023**: Italy ~0.98%, Europe ~1.68%.  
